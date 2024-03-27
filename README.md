@@ -1,1 +1,1 @@
-# my_neuralnetwork
+# Neural Network From Scrash in R
