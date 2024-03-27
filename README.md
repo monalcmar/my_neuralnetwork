@@ -1,1 +1,1 @@
-# Neural Network From Scrash in R
+# Neural Network from Scrash in R
